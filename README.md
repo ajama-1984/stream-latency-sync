@@ -85,6 +85,7 @@ Rank  Stream              Delay Behind Leader
       └─ http://...
 
 Launching ranked streams in VLC for visual confirmation...
+
 Contributing & Community Discussion
 This is an open-source proof of concept intended to foster community discussion around latency-aware stream sorting. Contributions, bug reports, and discussions regarding edge-case handling (such as half-time studio segments or independent broadcaster feeds) are welcome via GitHub Issues and Discussions.
 
